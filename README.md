@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Hyperledger Fabric**
 
-- 🌱 I’m currently learning **Web Full Stack,, UX/UI**
+- 🌱 I’m currently learning **Web Full Stack,, UX/UI, Data Science**
 
 - 📫 How to reach me **linalorth@gmail.com**
 
